@@ -1,6 +1,5 @@
 ---
 title: "Welcome"
-    template: trestles
 ---
 
 This is a Quarto website.
