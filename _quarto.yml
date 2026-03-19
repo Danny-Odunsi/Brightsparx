@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Brightsparx"
+  favicon: Images/favicon.jpeg
   navbar:
     right:
       - href: index.qmd
