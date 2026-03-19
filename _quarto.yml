@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Brightsparx"
+  page-layout: full
   navbar:
     right:
       - href: index.qmd
