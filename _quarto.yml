@@ -8,7 +8,14 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Services
+      - href: industries.qmd
+        text: Industries
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

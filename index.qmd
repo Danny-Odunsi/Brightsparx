@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 image: Images/favicon.jpeg
-favicon: Images/favicon.jpeg
 about:
     template: jolla
     image-shape: rounded
