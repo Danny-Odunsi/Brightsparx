@@ -5,6 +5,11 @@ about:
     template: jolla
     image-shape: rounded
     image-width: 50em
+links:
+    - icon: Email
+      href: malito:ade.odunsi@brightsparx.ie
+      text: Email
+
 ---
 
 This is a Quarto website.
