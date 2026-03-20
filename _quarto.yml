@@ -18,6 +18,11 @@ website:
       - href: contact.qmd
         text: Contact
 
+page-footer:
+  right: "© 2024 Brightsparx. All rights reserved."
+  background: dark
+
+
 format:
   html:
     theme:
@@ -26,6 +31,6 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-
+  
 
 
