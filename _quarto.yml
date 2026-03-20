@@ -3,10 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Brightsparx"
+  title: "Brightsparx Group"
   favicon: Images/favicon.jpeg
   navbar:
-    logo: Images/favicon.jpeg
     right:
       - href: index.qmd
         text: Home
@@ -26,8 +25,9 @@ website:
 format:
   html:
     theme:
-      - cerulean
-      - brand
+      light: cerulean
+      dark: superhero
+    fontsize: 3.5em
     css: styles.css
     toc: true
     page-layout: full
