@@ -6,6 +6,7 @@ website:
   title: "Brightsparx"
   favicon: Images/favicon.jpeg
   navbar:
+    logo: Images/favicon.jpeg
     right:
       - href: index.qmd
         text: Home
@@ -17,16 +18,15 @@ website:
         text: Industries
       - href: contact.qmd
         text: Contact
-
-page-footer:
-  right: "© 2024 Brightsparx. All rights reserved."
-  background: dark
+  page-footer:
+    right: © 2024 Brightsparx. All rights reserved.
+    background: light
 
 
 format:
   html:
     theme:
-      - cosmo
+      - cerulean
       - brand
     css: styles.css
     toc: true
