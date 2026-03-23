@@ -24,8 +24,7 @@ website:
 
 format:
   html:
-    theme:
-      light: styles.scss
+    theme: styles.scss
     fontsize: 3.5em
     toc: false
     page-layout: full
