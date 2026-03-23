@@ -28,7 +28,7 @@ format:
       light: cerulean
       dark: superhero
     fontsize: 3.5em
-    css: styles.css
+    css: styles.scss
     toc: true
     page-layout: full
   
