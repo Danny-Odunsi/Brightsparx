@@ -25,9 +25,8 @@ website:
 format:
   html:
     theme:
-      light: cerulean
+      light: styles.scss
     fontsize: 3.5em
-    css: styles.scss
     toc: false
     page-layout: full
   
