@@ -32,5 +32,8 @@ format:
     toc: true
     page-layout: full
   
+  # To have the styles consistent across all pages, just have everything refer to the SCSS file? Use this 
+  # as the SoT for all formats.
+  # Then in the above section of all pages have css as Styles.css.
 
 
