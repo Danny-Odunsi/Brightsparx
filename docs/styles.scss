@@ -1,3 +1,28 @@
-/* css styles */
+/* Scss styles */
 
+// Core Colours
+$navy-blue: #1e3a5f;     // Dark blue – trust, professionalism, corporate feel
+$steel-blue: #4f6d7a;    // Muted blue-grey – calm, modern, supporting colour
+$warm-beige: #d4a373;    // Soft gold/beige – premium, approachable accent
+$accent-yellow: #ffe600; // Bright, energetic (EY-style vibe)
 
+//Neutral Colours
+$off-white: #f8f9fa;     // Light background – clean and minimal
+$pure-white: #ffffff;    // Cards/sections – contrast and clarity
+$charcoal: #1f2933;      // Main text – strong readability
+$cool-grey: #6b7280;     // Secondary text – subtle information
+$light-grey: #e5e7eb;    // Borders/dividers – structure without noise
+
+// Functional colours
+$success-green: #2a9d8f; // Success states – positive, growth
+$warning-orange: #f4a261; // Warnings – attention without aggression
+$error-red: #e63946;     // Errors – strong alert
+
+// Others - need to test out
+$soft-shadow: rgba(0, 0, 0, 0.05); // Subtle shadow – depth without heaviness
+
+// ---------
+
+/* Colours by section */
+//Background
+$body-bg: $charcoal !important;

@@ -26,10 +26,9 @@ format:
   html:
     theme:
       light: cerulean
-      dark: superhero
     fontsize: 3.5em
     css: styles.scss
-    toc: true
+    toc: false
     page-layout: full
   
   # To have the styles consistent across all pages, just have everything refer to the SCSS file? Use this 
